@@ -1,17 +1,19 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static</h1>
+    <h1>Bine ai venit!</h1>
 
-    <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
+    <p>Aici îmi documentez procesul de găsire a misiunii mele.</p>
 
-    <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
+    <p>Totul a pornit atunci când am observat că am foarte multe idei, și nu fac niciuna.</p>
 
-    <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
+    <p>Îmi propun să scriu pe parcursul următoarelor 52 de săptămâni, 52 de articole despre o idee de afaceri și misiunea asociată.</p>
 
+<!--
     <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank" rel="noopener">
         <img src="{{ media('kofi-button.png') }}" alt="ko-fi" width="223" height="30">
     </a>
+-->
 
     <h2 id="test">Asset Compilation Test</h2>
 

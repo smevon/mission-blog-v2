@@ -4,14 +4,14 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'Îmi caut misiunea prin scris.',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Mission blog',
+        'description' => 'Îmi găsesc misiunea prin scris.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Sergiu Adrian',
+        'facebook' => 'sergiu.adrian.rus',
+        'linkedin' => 'russergiuadrian',
     ],
     'services' => [
         'cmsVersion' => '2.10.139',
@@ -19,8 +19,10 @@ return [
         'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+          "cloud_name" => "sergiu-adrian-ro",
+          "api_key" => "711896784982343",
+          "api_secret" => "nEdmb0ehlY-uvK5fe-1xOYS8uaE",
+          "secure" => true
         ],
     ],
     'collections' => [
