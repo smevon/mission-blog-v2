@@ -6,7 +6,7 @@ return [
     'site' => [
         'title' => 'Mission blog',
         'description' => 'Îmi găsesc misiunea prin scris.',
-        'image' => 'https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1627151089/logo.png',
+        'image' => 'assets/images/logo.png',
     ],
     'owner' => [
         'name' => 'Sergiu Adrian',
