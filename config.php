@@ -2,11 +2,11 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://sergiu-adrian.ro/',
     'site' => [
         'title' => 'Mission blog',
         'description' => 'Îmi găsesc misiunea prin scris.',
-        'image' => 'default-share.png',
+        'image' => 'https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1627151089/logo.png',
     ],
     'owner' => [
         'name' => 'Sergiu Adrian',
