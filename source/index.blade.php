@@ -17,6 +17,11 @@
 
   <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1627151089/logo.png" alt="Un proces intens">
 
+  <p>Am două scopuri. 1 sa inspir si pe inca o persoana sa faca la fel. 2. sa o gasesc pe a mea.</p>
+
+idee: de explicat ce inseamna fiecare element
+si apoi de pus logo-ul complet pe site
+
     <h2 id="test">Asset Compilation Test</h2>
 
     <p>CSS test: <span class="test-css">text with blue border</span></p>
