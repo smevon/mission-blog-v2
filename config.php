@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://sergiu-adrian.ro/',
     'site' => [
-        'title' => 'Mission blog',
-        'description' => 'Îmi găsesc misiunea prin scris.',
+        'title' => 'Coregraf de cuvinte',
+        'description' => 'Îmi documentez găsirea misiunii prin scris.',
         'image' => 'assets/images/logo.png',
     ],
     'owner' => [
-        'name' => 'Sergiu Adrian',
+        'name' => 'Sergiu Adrian Rus',
         'facebook' => 'sergiu.adrian.rus',
         'linkedin' => 'russergiuadrian',
     ],

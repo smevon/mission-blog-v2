@@ -1,14 +1,17 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Bine ai venit!</h1>
+    <h1>Și tu îți cauți misiunea?</h1>
 
-    <p>Aici îmi documentez procesul de găsire a misiunii mele.</p>
+    <p>Ce bine că ne-am găsit.</p>
 
-    <p>Totul a pornit atunci când am observat că am foarte multe idei, și nu fac niciuna.</p>
+    <p>Și tu vrei să faci multe și nu te apuci de niciuna?</p>
 
-    <p>Îmi propun să scriu pe parcursul următoarelor 52 de săptămâni, 52 de articole despre o idee de afaceri și misiunea asociată.</p>
+    <p>Așai că-i frustrant să primești mesaje de la mulți ani „Toate dorințele să ți se împlinească”</p>
 
+    <p>Aparent nu așa funcționează. Am tot sperat că voi avea rezultate punându-mi dorințe.</p>
+
+    <p>Pe acest blog îmi documentez găsirea misiunii. După ce aplic anumite cunoștințe și le descopăr utile, te voi învăța și pe tine. Aceste descoperiri le distribui doar comunității, pe care o construiesc pe email.</p>
 <!--
     <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank" rel="noopener">
         <img src="{{ media('kofi-button.png') }}" alt="ko-fi" width="223" height="30">
@@ -17,14 +20,19 @@
 
   <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1627151089/logo.png" alt="Un proces intens">
 
-  <p>Am două scopuri. 1 sa inspir si pe inca o persoana sa faca la fel. 2. sa o gasesc pe a mea.</p>
+  <p>Imaginea de sus reprezintă modul în care îmi percep situația de acum.</p>
 
-idee: de explicat ce inseamna fiecare element
-si apoi de pus logo-ul complet pe site
+  <p>Este o iluzie că ceva mă blochează. Acel punct negru, de fapt se poate deplasa la dreapta.</p>
 
-    <h2 id="test">Asset Compilation Test</h2>
+  <p>Ține de fiecare să-și dea seama că ce-l ține pe loc este de fapt în imaginație.</p>
 
-    <p>CSS test: <span class="test-css">text with blue border</span></p>
+  <p>Este vorba de o convingere.</p>
 
-    <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
-@endsection
+  <p>De o limitare imaignară.</p>
+
+  <p>Scopul meu este clar. Să-mi găsesc misiunea.</p>
+
+  <p>Și să te inspir și pe tine să faci la fel.</p>
+
+  <p>Sergiu</p>
+  <p><i>Coregraf de cuvinte</i></p>
