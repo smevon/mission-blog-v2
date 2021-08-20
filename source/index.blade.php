@@ -34,5 +34,5 @@
 
   <p>Și să te inspir și pe tine să faci la fel.</p>
 
-  <p>Sergiu</p>
+  <p>Sergiu,</p>
   <p><i>Coregraf de cuvinte</i></p>
