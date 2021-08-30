@@ -35,15 +35,6 @@
                 @yield('content')
             </section>
 
-            <section>
-              <p>
-                  <strong>{{ $page->prettyDate('F j, Y') }}</strong><br>
-                  @foreach ($page->tags as $tag)
-                      <a href="/tags/{{ $tag }}">{{ $tag }}</a>
-                      {{ $loop->last ? '' : '-' }}
-                  @endforeach
-              </p>
-            </section>
         </article>
 
         <footer>
