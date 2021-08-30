@@ -16,7 +16,7 @@ return [
     'services' => [
         'cmsVersion' => '2.10.139',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'coregrafdecuvinte',
+        'disqus' => 'sergiu-adrian',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
           "cloudName" => "sergiu-adrian-ro",
