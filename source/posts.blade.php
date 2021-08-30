@@ -3,7 +3,7 @@
 @section('title', 'Posts')
 
 @section('content')
-    <h1>Posts</h1>
+    <h1>Articolele scrise până amu</h1>
 
     <ul>
         @forelse ($posts->sortBy('title') as $post)
@@ -12,7 +12,7 @@
                 <small>{{ $post->prettyDate() }}</small>
             </li>
         @empty
-            <p>No posts to show.</p>
+            <p>Niciun articol de arătat. O dispărut toate ca prin minune.</p>
         @endforelse
     </ul>
 @endsection
