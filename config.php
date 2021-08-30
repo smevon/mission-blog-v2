@@ -19,7 +19,7 @@ return [
         'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-          "cloud_name" => "sergiu-adrian-ro",
+          "cloudName" => "sergiu-adrian-ro",
           "api_key" => "711896784982343",
           "api_secret" => "nEdmb0ehlY-uvK5fe-1xOYS8uaE",
           "secure" => true
