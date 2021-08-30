@@ -36,3 +36,5 @@
 
   <p>Sergiu,</p>
   <p><i>Coregraf de cuvinte</i></p>
+
+  @endsection
