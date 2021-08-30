@@ -11,7 +11,7 @@ $events->afterBuild(function ($jigsaw) {
 
 function media($path)
 {
-    $cloudName = $GLOBALS['container']->config['services']['cloudinary']['cloudName'];
+    $cloudName = $GLOBALS['container']->config['services']['cloudinary']['cloud_name'];
     return "https://res.cloudinary.com/{$cloudName}/{$path}";
 }
 

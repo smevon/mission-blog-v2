@@ -7,7 +7,7 @@ media_folder: images
 media_library:
   name: cloudinary
   config:
-    cloudName: {{ $page->services->cloudinary->cloudName }}
+    cloudName: {{ $page->services->cloudinary->cloud_name }}
     api_key: {{ $page->services->cloudinary->api_key }}
 site_url: {{ $page->baseUrl }}
 collections:
