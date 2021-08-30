@@ -17,7 +17,7 @@ return [
         'cmsVersion' => '2.10.139',
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'sergiu-adrian',
-        'formcarry' => 'XXXXXXXXXXXX',
+        'formcarry' => 'gzXPufr6tFn8P2yvwjlTDQin3brIDIy5piCphEPCHw8ACeaRc6UJfd51GVcizmyi',
         'cloudinary' => [
           "cloud_name" => "sergiu-adrian-ro",
           "api_key" => "711896784982343",
