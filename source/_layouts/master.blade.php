@@ -22,10 +22,10 @@
             <nav>
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/posts">Posts</a></li>
-                    <li><a href="/about">About</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li><a href="/">Acasă</a></li>
+                    <li><a href="/posts">Articole</a></li>
+                    <li><a href="/about">Cine sunt?</a></li>
+                    <li><a href="/contact">Țrr</a></li>
                 </ul>
             </nav>
         </header>
@@ -34,13 +34,23 @@
             <section>
                 @yield('content')
             </section>
+
+            <section>
+              <p>
+                  <strong>{{ $page->prettyDate('F j, Y') }}</strong><br>
+                  @foreach ($page->tags as $tag)
+                      <a href="/tags/{{ $tag }}">{{ $tag }}</a>
+                      {{ $loop->last ? '' : '-' }}
+                  @endforeach
+              </p>
+            </section>
         </article>
 
         <footer>
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
                 <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Maintained by Ranie Santos &nbsp;&bull;&nbsp;
+                Temă menținută de Ranie Santos &nbsp;&bull;&nbsp;
                 <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>
             </small>
         </footer>

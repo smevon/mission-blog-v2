@@ -12,7 +12,7 @@
                 <small>{{ $post->prettyDate() }}</small>
             </li>
         @empty
-            <p>No posts to show.</p>
+            <p>Nu sunt articole de afișat.</p>
         @endforelse
     </ul>
 @endsection
