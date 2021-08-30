@@ -37,6 +37,19 @@
 
         </article>
 
+        @section('content')
+        
+            <p>
+                <strong>{{ $page->prettyDate('F j, Y') }}</strong><br>
+                @foreach ($page->tags as $tag)
+                    <a href="/tags/{{ $tag }}">{{ $tag }}</a>
+                    {{ $loop->last ? '' : '-' }}
+                @endforeach
+            </p>
+
+        @endsection
+
+
         <footer>
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
