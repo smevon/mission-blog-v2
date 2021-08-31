@@ -1,16 +1,39 @@
 @extends('_layouts.master')
 
-@section('title', 'About')
+@section('title', 'Despre mine')
 
 @section('content')
-    <h1>About</h1>
+    <p>Dacă tot ești curios, îți spun.</p>
 
-    <p>My name is {{ $page->owner->name }}</p>
+    <p>Am început ca inginer programator.</p>
 
-    <h2>Links:</h2>
+    <p>Am continuat ca trainer, manager și vânzător.</p>
 
-    <ul>
-        <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">Twitter</a></li>
-        <li><a href="https://github.com/{{ $page->owner->github }}" target="_blank">GitHub</a></li>
-    </ul>
+    <p>Apoi am încercat două afaceri.</p>
+
+    <p>Și apoi m-am liniștit.</p>
+
+    <p>Am înțeles destule, ca să pot face o schimbare de mentalitate.</p>
+
+    <p>O mentalitate sănătoasă, în care clientul este servit.</p>
+
+    <p>România frumoasă în care trăim, merită să fie cunoscută peste hotare ca fiind țara cu cea mai mare amiabilitate.</p>
+
+    <p>Vom fi mai relaxați. Dar la fel de productivi.</p>
+
+    <p>Vom fi mai bine priviți când plecăm din țară.</p>
+
+    <p>Vom avea mai mulți turiști, pe care să-i uimim cu experiențe românești.</p>
+
+    <p>Ah, am uitat să-ți spun. Dansez de când eram mic. Întotdeauna m-a fascinat meseria de coregraf.</p>
+
+    <p>Iar când am crescut mare. Am descoperit cuvintele, și cât de frumos pot să danseze prin aer.</p>
+
+    <p>Așa că, iată-mă.</p>
+
+    <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1630434579/sergiu_udm9rd.jpg" alt="Sergiu Adrian, Coregraf de cuvinte.">
+
+    <p>Sunt Sergiu Adrian,</p>
+    <p>al vostru, <i>coregraf de cuvinte</i>.</p>
+
 @endsection
