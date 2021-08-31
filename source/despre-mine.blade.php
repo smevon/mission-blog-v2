@@ -3,6 +3,9 @@
 @section('title', 'Despre mine')
 
 @section('content')
+
+    <h4>Cine sunt eu?</h4>
+
     <p>Dacă tot ești curios, îți spun.</p>
 
     <p>Am început ca inginer programator.</p>
