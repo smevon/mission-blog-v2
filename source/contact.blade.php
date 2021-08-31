@@ -19,6 +19,9 @@
       margin: 4px 2px;
       cursor: pointer;
     }
+    input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
+    background-color: #A80874;
+    }
     </style>
     </head>
 

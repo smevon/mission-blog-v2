@@ -23,6 +23,11 @@
       cursor: pointer;
     }
 
+    input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
+    background-color: #A80874;
+    }
+    </style>
+
   <!-- Begin Mailchimp Signup Form -->
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
   <style type="text/css">
