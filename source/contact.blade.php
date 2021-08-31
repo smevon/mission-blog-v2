@@ -19,6 +19,9 @@
       margin: 4px 2px;
       cursor: pointer;
     }
+    input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
+      background-color: #A80874;
+    }
     </style>
     </head>
 
@@ -40,6 +43,6 @@
 
         <input type="text" name="_gotcha" style="display: none;">
 
-        <input type="submit" name="submit" value="Send">
+        <input type="submit" name="submit" value="Către tine">
     </form>
 @endsection
