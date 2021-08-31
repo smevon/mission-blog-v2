@@ -22,10 +22,6 @@
       margin: 4px 2px;
       cursor: pointer;
     }
-    input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
-      background-color: #289720;
-    }
-
 
   <!-- Begin Mailchimp Signup Form -->
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
