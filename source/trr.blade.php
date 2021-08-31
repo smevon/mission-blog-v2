@@ -1,11 +1,13 @@
 @extends('_layouts.master')
 
-@section('title', 'Contact')
+@section('title', 'Țrr')
 
 @section('content')
     <h1>Țrr țrr</h1>
 
-    <p>Cum pot să-ți grăiesc dacă nu-ți știu datele de contacte? </p>
+    <p>În epoca digitală, vrem să fie totul digital.</p>
+
+    <p>Îți dau de ales, fie îmi scrii direct în inbox, fie whatever ( alte idei «wow» </p>
 
 
     <head>
