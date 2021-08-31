@@ -25,6 +25,7 @@
                     <li><a href="/">Acasă</a></li>
                     <li><a href="/posts">Articole</a></li>
                     <li><a href="/about">Cine sunt?</a></li>
+                    <li><a href="/consultanta">Consultanță</a></li>
                     <li><a href="/contact">Țrr</a></li>
                 </ul>
             </nav>
