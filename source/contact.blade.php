@@ -3,11 +3,28 @@
 @section('title', 'Contact')
 
 @section('content')
-    <h1>Contact</h1>
+    <h1>Țrr țrr</h1>
+
+    <p>Cum pot să-ți grăiesc dacă nu-ți știu datele de contacte? </p>
+
+
+    <head>
+    <style>
+    input[type=button], input[type=submit], input[type=reset] {
+      background-color: #A80874;
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    </style>
+    </head>
 
     <form action="https://formcarry.com/s/{{ $page->services->formcarry }}" method="post">
         <div>
-            <label for="sender">Name</label><br>
+            <label for="sender">Prenumele tău preferat</label><br>
             <input type="text" name="sender" id="sender" required>
         </div>
 
@@ -17,7 +34,7 @@
         </div>
 
         <div>
-            <label for="message">Message</label><br>
+            <label for="message">De la ce idee vrei să pornim discuția?</label><br>
             <textarea name="message" id="message" required></textarea>
         </div>
 
