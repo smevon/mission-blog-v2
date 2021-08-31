@@ -11,16 +11,6 @@
 
     <p>Ei bine, ăsta-i scopul meu aici, să-ți fie așezată ciorba mai frumos pe masă.</p>
 
-<!-- Begin custom HTML -->
-    <style>
-    input[type=button], input[type=submit], input[type=reset] {
-      background-color: #A80874;
-    }
-
-    input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
-    background-color: #A80874;
-    }
-    </style>
 
   <!-- Begin Mailchimp Signup Form -->
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -48,7 +38,7 @@
   		<div class="response" id="mce-success-response" style="display:none"></div>
   	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
       <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8afc636eecb08cf316417c49f_fd48a45d07" tabindex="-1" value=""></div>
-      <div class="clear"><input type="submit" value="Mă abonez" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      <div class="clear"><input type="submit" value="Mă abonez" name="subscribe" id="mc-embedded-subscribe" class="button" style="background-color:#A80874"></div>
       </div>
   </form>
   </div>
