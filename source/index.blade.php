@@ -11,7 +11,7 @@
 
     <p>Ei bine, ăsta-i scopul meu aici, să-ți fie așezată ciorba mai frumos pe masă.</p>
 
-<!-- Begin Mailchimp Signup Form -->
+<!-- Begin custom HTML -->
     <style>
     input[type=button], input[type=submit], input[type=reset] {
       background-color: #A80874;
@@ -23,7 +23,7 @@
       cursor: pointer;
     }
     input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
-      background-color: #A80874;
+      background-color: #289720;
     }
 
 
