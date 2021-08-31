@@ -27,7 +27,7 @@ return [
     ],
     'collections' => [
         'posts' => [
-            'path' => 'posts/{filename}',
+            'path' => 'articole/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',

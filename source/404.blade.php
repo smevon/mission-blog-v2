@@ -7,7 +7,12 @@ permalink: 404.html
 @section('title', 'Page not found')
 
 @section('content')
-    <h1>404 Error</h1>
+    <h1>Celebra eroare 404</h1>
 
-    <p>The page you were trying to access could not be found.</p>
+    <p>Ce cauți tu dragule? Pagini care nu există?</p>
+
+    <p>Potolește-te și citește un <a href="https://sergiu-adrian.ro/articole/">articol</a>, că sunt destule.</p>
+
+
+
 @endsection
