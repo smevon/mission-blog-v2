@@ -31,9 +31,10 @@
 
     <p>Așa că, iată-mă.</p>
 
-    <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1630434579/sergiu_udm9rd.jpg" alt="Sergiu Adrian, Coregraf de cuvinte.">
+    <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1630434579/sergiu_udm9rd.jpg" alt="Sergiu Adrian, Coregraf de cuvinte." style="width:200px; border-radius:50%">
 
-    <p>Sunt Sergiu Adrian,</p>
-    <p>al vostru, <i>coregraf de cuvinte</i>.</p>
+
+    <p>Sunt Sergiu Adrian,</br>
+    al vostru <i>coregraf de cuvinte</i></p>
 
 @endsection
