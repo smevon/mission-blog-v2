@@ -49,7 +49,7 @@
                 Tema este creată de
                 <a href="https://github.com/raniesantos/artisan-static">Ranie Santos</a>
                 &nbsp;&bull;&nbsp; Logo a fost creat cu
-                <a href="https://my.logomakr.com/cc-license/">LogoMakr</a>
+                <a href="https://logomakr.com/">LogoMakr</a>
             </small>
         </footer>
     </section>
