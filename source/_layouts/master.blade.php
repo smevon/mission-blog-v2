@@ -14,13 +14,15 @@
     @include('_partials.head.meta')
     @include('_partials.cms.identity_widget')
 
-    <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+    <link rel="stylesheet" href="{{ mix('../css/main.css', '../assets/build') }}">
 </head>
 <body>
 
     <section>
         <header>
-          <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" class="logo">
+          <div class="logo-wrapper">
+            <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" class="logo">
+          </div>
             <nav>
                 <strong>{{ $page->site->title }}</strong><br>
 
