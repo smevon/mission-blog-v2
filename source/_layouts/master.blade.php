@@ -22,7 +22,7 @@
         <header>
 
             <nav>
-                <img src="{{ $page->logoURL }}" >
+                <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" >
                 <strong>{{ $page->site->title }}</strong><br>
 
                 <ul>
