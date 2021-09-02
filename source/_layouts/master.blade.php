@@ -20,9 +20,8 @@
 
     <section>
         <header>
-
+          <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" class="logo">
             <nav>
-                <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" >
                 <strong>{{ $page->site->title }}</strong><br>
 
                 <ul>
