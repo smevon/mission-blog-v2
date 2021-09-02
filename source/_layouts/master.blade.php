@@ -48,7 +48,7 @@
                 <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
                 Tema este creată de
                 <a href="https://github.com/raniesantos/artisan-static">Ranie Santos</a>
-                &nbsp;&bull;&nbsp; Logo creat cu
+                &nbsp;&bull;&nbsp; Logo a fost creat cu
                 <a href="https://my.logomakr.com/cc-license/">LogoMakr</a>
             </small>
         </footer>
