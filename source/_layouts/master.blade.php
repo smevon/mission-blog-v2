@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
-  <img src="{{ $page->image }}" style="position:fixed;top:0;left:0;">
+  <img src="../assets/images/logo.png" >
     <section>
         <header>
 
