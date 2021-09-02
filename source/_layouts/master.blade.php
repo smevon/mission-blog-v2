@@ -17,10 +17,14 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
+  <img src="{{ $page->image }}" style="position:fixed;top:0;left:0;">
     <section>
         <header>
+
             <nav>
+
                 <strong>{{ $page->site->title }}</strong><br>
+
                 <ul>
                     <li><a href="/">Acasă</a></li>
                     <li><a href="/articole">Articole</a></li>
