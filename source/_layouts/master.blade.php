@@ -20,8 +20,8 @@
 
     <section>
         <header>
-          <div class="logo-wrapper">
-            <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" class="logo">
+          <div style="text-align: center;">
+            <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" width="25%" height="25%">
           </div>
             <nav>
                 <strong>{{ $page->site->title }}</strong><br>
@@ -49,7 +49,7 @@
                 <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
                 Tema este creată de Ranie Santos &nbsp;&bull;&nbsp;
                 <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>
-                &nbsp;&bull;&nbsp; Logo creat cu 
+                &nbsp;&bull;&nbsp; Logo creat cu
                 <a href="https://my.logomakr.com/cc-license/">LogoMakr</a>
             </small>
         </footer>
