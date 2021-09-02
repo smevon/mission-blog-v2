@@ -17,12 +17,12 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
-  <img src="../assets/images/logo.png" >
+
     <section>
         <header>
 
             <nav>
-
+                <img src="{{ $page->logoURL }}" >
                 <strong>{{ $page->site->title }}</strong><br>
 
                 <ul>

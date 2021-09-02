@@ -7,6 +7,8 @@ return [
         'title' => 'Coregraf de cuvinte',
         'description' => 'Îmi documentez găsirea misiunii prin scris.',
         'image' => 'assets/images/logo.png',
+        'logoURL' => 'https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png',
+
     ],
     'owner' => [
         'name' => 'Sergiu Adrian Rus',
