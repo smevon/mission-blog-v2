@@ -22,9 +22,8 @@
         <header>
 
             <nav>
-                <strong>{{ $page->site->title }}</strong><br>
-                <div style="text-align: center;">
-                  <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" width="25%" height="25%">
+                  <div style="text-align: center;">
+                  <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" width="15%" height="15%">
                 </div>
                 <ul>
                     <li><a href="/">Acasă</a></li>
