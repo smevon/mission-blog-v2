@@ -47,8 +47,10 @@
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
                 <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Tema paginii este creată de Ranie Santos &nbsp;&bull;&nbsp;
+                Tema este creată de Ranie Santos &nbsp;&bull;&nbsp;
                 <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>
+                &nbsp;&bull;&nbsp; Logo creat cu 
+                <a href="https://my.logomakr.com/cc-license/">LogoMakr</a>
             </small>
         </footer>
     </section>
