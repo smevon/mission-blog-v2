@@ -44,6 +44,7 @@ $(function(){
             <nav class="navbar navbar-inverse">
               <div class="container-fluid">
                 <ul class="nav navbar-nav">
+                  <li><a href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" width="5%" height="5%"></a></li>
                   <li><a id="len1" class="hoverable" href="/articole">Articole</a></li>
                   <li><a id="len2" class="hoverable" href="/despre-mine">Cine sunt?</a></li>
                   <li><a id="len3" class="hoverable" href="/consultanta">Consultanță</a></li>
@@ -53,18 +54,19 @@ $(function(){
             </nav>
             <div id="what-the-hell-is-this">
               <div class="page-title">
-                <h2>Coregraf de cuvinte</h2>
+                <!--><h2>Coregraf de cuvinte</h2>
                 <p class="lead">
                   Based on Hover.css, the goal of this pen
                   is to create a simple navigation bar <br />
                   that can be easily reused in both mobile and native displays. Mouse over the nav text for animation!
                 </p>
+                <!-->
               </div>
             </div>
           </div>
 
 
-
+<!-->
             <nav>
                   <div style="text-align: center;">
                   <img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" width="15%" height="15%">
@@ -77,6 +79,7 @@ $(function(){
                     <li><a href="/trr">Țrr</a></li>
                 </ul>
             </nav>
+        <!-->
         </header>
 
         <article>
