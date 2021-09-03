@@ -18,10 +18,6 @@
 <div id="Mailchimp-Select">
 </div>
 
-
-
-
-
   <strong>Citește articolele de pe blog.</strong>
 
   <ul>
