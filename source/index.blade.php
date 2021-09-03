@@ -48,4 +48,18 @@
   <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
   <!--End mc_embed_signup-->
 
+
+  <h1>Citește articolele scrise pe blog</h1>
+
+  <ul>
+      @forelse ($posts->sortBy('title') as $post)
+          <li>
+              <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
+              <small>{{ $post->prettyDate() }}</small>
+          </li>
+      @empty
+          <p>Niciun articol de arătat. O dispărut toate ca prin minune.</p>
+      @endforelse
+  </ul>
+
   @endsection
