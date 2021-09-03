@@ -15,7 +15,8 @@
 <p> Ar fi o idee rea? </p>
 
 <button class="button-js" style="vertical-align:middle"><span>Nu</span></button>
-
+<div id="Mailchimp-Select">
+</div>
 
 
 
