@@ -47,7 +47,6 @@ $(function(){
                 </div>
                 <ul>
                     <li><a href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png" width="10%" height="10%"></a></li>
-                    <li><a href="#"></a></li>
                     <li><a href="/articole">Articole</a></li>
                     <li><a href="/despre-mine">Cine sunt?</a></li>
                     <li><a href="/consultanta">Consultanță</a></li>
