@@ -6,7 +6,7 @@
     <h1>Articolele scrise până acum</h1>
 
     <ul>
-        @forelse ($posts->sortBy('title') as $post)
+        @forelse ($posts->sortBy('date') as $post)
             <li>
                 <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
                 <small>{{ $post->prettyDate() }}</small>
