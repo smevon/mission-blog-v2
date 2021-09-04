@@ -42,7 +42,7 @@
 
 
 
-  <div class="container-fluid">
+  <div class="container-fluid" style="text-align: center;">
     <nav class="navbar navbar-inverse">
       <div class="container-fluid">
         <ul class="nav navbar-nav">
