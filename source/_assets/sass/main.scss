@@ -68,9 +68,9 @@ button[data-sharer] {
   border: none;
   color: #000;
   text-align: center;
-  font-size: 14px;
+  font-size: 12px;
   padding: 20px;
-  width: 100px;
+  width: 140px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
@@ -94,10 +94,13 @@ button[data-sharer] {
 
 .button-navbar:hover span {
   padding-right: 25px;
+  background-color: #FFF;
 }
 
 .button-navbar:hover span:after {
+  opacity: 1;
   right: 0;
+  background-color: #FFF;
 }
 
 
