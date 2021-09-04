@@ -2,17 +2,23 @@
 
 @section('content')
 <strong>„Și dacă-mi scuipă în supă? Mai bine tac... lasă.”</strong>
-<p align="right"> - spuse el către prieteni.</p>
+<p align="center"> - spuse el către prieteni.</p>
 
 <p>Atunci când comanda la restaurant durează dublu decât timpul estimat:</p>
 
-<p>este dreptul tău să spui că ești nemulțumit</p>
-<p>este dreptul tău să ceri o reducere</p>
-<p>este în spre binele tău să faci ceva, orice. (fără agresivitate, te rog)</p>
+<ul>
+<li>este dreptul tău să spui că ești nemulțumit</li>
+<li>este dreptul tău să ceri o reducere</li>
+<li>este în spre binele tău să faci ceva, orice. (fără agresivitate, te rog)</li>
+</ul>
+
 <p>Atunci când ești servit impecabil</p>
-<p>apreciază atitudinea</p>
-<p>oferă complimente</p>
-<p>laudă comportamentele</p>
+<ul>
+<li>apreciază atitudinea</li>
+<li>oferă complimente</li>
+<li>laudă comportamentele</li>
+</ul>
+
 <p>Este o muncă și un efort constant în a oferi un serviciu impecabil. Apreciază-l.</p>
 
 <p>Este un dezinteres total când ți se aduce comanda greșit. Verbalizează-ți așteptarea și nemulțumirea.</p>

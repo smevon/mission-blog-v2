@@ -68,9 +68,9 @@ button[data-sharer] {
   border: none;
   color: #000;
   text-align: center;
-  font-size: 28px;
+  font-size: 14px;
   padding: 20px;
-  width: 60px;
+  width: 100px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
@@ -157,11 +157,11 @@ a:active {
 }
 
 .hoverable:hover, .hoverable:active, .hoverable:focus{
-  transform: translateY(-2px);
+  transform: translateY(2px);
 }
 .hoverable:hover:before, .hoverable:active:before, .hoverable:focus:before{
   opacity: 1;
-  transform: translateY(-2px);
+  transform: translateY(2px);
 }
 
 
