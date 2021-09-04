@@ -81,7 +81,9 @@ button[data-sharer] {
   transition: all 0.5s;
   cursor: pointer;
 //  margin: 5px;
+    margin-bottom: 0px;
 }
+
 
 .button-navbar span {
   cursor: pointer;
@@ -258,3 +260,9 @@ nav {
   margin-top: 0px;
   margin-bottom: 0px;
 }
+
+.nav {
+  .navbar-nav {
+    margin-bottom: 0px;
+  }
+  }
