@@ -92,11 +92,11 @@ button[data-sharer] {
 }
 
 .hoverable:hover, .hoverable:active, .hoverable:focus{
-  transform: translateY(-10px);
+  transform: translateY(-2px);
 }
 .hoverable:hover:before, .hoverable:active:before, .hoverable:focus:before{
   opacity: 1;
-  transform: translateY(-10px);
+  transform: translateY(-2px);
 }
 
 
