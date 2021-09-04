@@ -63,6 +63,7 @@ var MailChimpCode = '\
 
 
 
+document.getElementById('reveal1').addEventListener('click', revealText1);
 
 function revealText1() {
   var textToReveal = '<ul>'
@@ -74,14 +75,13 @@ function revealText1() {
 
   print("Am ajuns in revealText1");
 
-
-          document.getElementById("Home-1").innerHTML += textToReveal;
+  document.getElementById("Home-1").innerHTML += textToReveal;
 
   print("Am ajuns la final de functie");
   //document.getElementById("Home-1").innerHTML += textToReveal;
 }
 
-document.getElementById('reveal1').addEventListener('click', revealText1);
+
 
 // for nav-BAR - JQuerry Sergiu draga
 /*
