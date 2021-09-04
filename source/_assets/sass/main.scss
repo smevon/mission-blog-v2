@@ -81,7 +81,6 @@ button[data-sharer] {
   transition: all 0.5s;
   cursor: pointer;
 //  margin: 5px;
-    margin-bottom: 0px;
 }
 
 
@@ -103,12 +102,12 @@ button[data-sharer] {
   position: absolute;
   opacity: 0;
   top: 0;
-  right: -20px;
+  right: -30px;
   transition: 0.5s;
 }
 
 .button-navbar:hover span {
-  padding-right: 25px;
+  padding-right: 35px;
 
 }
 
@@ -234,9 +233,6 @@ a:active {
   }
 }
 
-body {
-  font-weight:400;
-}
 
 nav {
   background: none !important;
@@ -254,15 +250,3 @@ nav {
     }
   }
 }
-
-
-.container-fluid {
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
-
-.nav {
-  .navbar-nav {
-    margin-bottom: 0px;
-  }
-  }
