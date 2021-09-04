@@ -62,6 +62,8 @@ var MailChimpCode = '\
         }
 
 
+
+
 function revealText1() {
   var textToReveal = '<ul>'
   + '<li>este dreptul tău să spui că ești nemulțumit</li>'
@@ -78,6 +80,8 @@ function revealText1() {
   print("Am ajuns la final de functie");
   //document.getElementById("Home-1").innerHTML += textToReveal;
 }
+
+document.getElementById('reveal1').addEventListener('click', revealText1);
 
 // for nav-BAR - JQuerry Sergiu draga
 /*
