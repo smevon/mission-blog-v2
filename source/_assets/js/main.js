@@ -81,7 +81,8 @@ function revealText1() {
   //document.getElementById("Home-1").innerHTML += textToReveal;
 }
 
-// for nav-BAR
+// for nav-BAR - JQuerry Sergiu draga
+/*
 $(function(){
   var str = '#len'; //increment by 1 up to 1-nelemnts
   $(document).ready(function(){
@@ -96,3 +97,4 @@ $(function(){
     }, 500)
   });
 });
+*/
