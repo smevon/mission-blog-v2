@@ -62,6 +62,15 @@ var MailChimpCode = '\
         }
 
 
+function revealText1() {
+  var textToReveal = '<ul>\
+  <li>este dreptul tău să spui că ești nemulțumit</li>\
+  <li>este dreptul tău să ceri o reducere</li>\
+  <li>este în spre binele tău să faci ceva, orice. (fără agresivitate, te rog)</li>\
+  </ul>';
+
+  document.getElementById("Home-1").innerHTML += textToReveal;
+}
 
 // for nav-BAR
 $(function(){

@@ -6,11 +6,11 @@
 
 <p>Atunci când comanda la restaurant durează dublu decât timpul estimat:</p>
 
-<ul>
-<li>este dreptul tău să spui că ești nemulțumit</li>
-<li>este dreptul tău să ceri o reducere</li>
-<li>este în spre binele tău să faci ceva, orice. (fără agresivitate, te rog)</li>
-</ul>
+<button class="button-reveal" onclick="revealText1()" style="vertical-align:middle"><span>Citește</span></button>
+<div id="Home-1">
+</div>
+
+
 
 <p>Atunci când ești servit impecabil</p>
 <ul>

@@ -251,3 +251,49 @@ nav {
     }
   }
 }
+
+
+// button for reveal text-transform
+.button-reveal {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #A80874;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 10px;
+  padding: 20px;
+  width: 50px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button-reveal span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button-reveal span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -10px;
+  transition: 0.5s;
+}
+
+.button-reveal:hover span {
+  padding-right: 10px;
+}
+
+.button-reveal:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.button-reveal:hover {
+  background-color: #343A1A;
+}
