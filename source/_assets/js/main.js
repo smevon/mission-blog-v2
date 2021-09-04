@@ -77,7 +77,7 @@ if(revealText1.done) return;
 
   document.getElementById("Home-1").innerHTML += textToReveal;
   document.getElementById("reveal1").style.visibility = "hidden";
-  }
+
   //document.getElementById("Home-1").innerHTML += textToReveal;
 }
 
