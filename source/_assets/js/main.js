@@ -79,8 +79,8 @@ if(revealText1.done) return;
 
   document.getElementById("reveal1").style.visibility = "hidden";
   document.getElementById("Home-1").style.animationIterationCount= 1;
-  document.getElementById("Home-1").style.animation = "reveal-text 2s ease-in 0.3s 1";
-  
+  document.getElementById("Home-1").style.animation = "reveal-text 2s ease-in 0.3s";
+
 
 
   //document.getElementById("Home-1").style.margin = "-80px 0px 0px 0px";
