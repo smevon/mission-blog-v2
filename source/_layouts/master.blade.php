@@ -38,9 +38,9 @@
             </nav>
 -->
 
-        </header>
 
-<body>
+
+
 
   <div class="container-fluid">
     <nav class="navbar navbar-inverse">
@@ -55,7 +55,7 @@
     </nav>
   </div>
 
-</body>
+        </header>
 
         <article>
             <section>
