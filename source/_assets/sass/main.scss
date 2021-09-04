@@ -74,13 +74,14 @@ button[data-sharer] {
   border: none;
   color: #000;
   text-align: center;
+  text-transform:uppercase;
   font-size: 12px;
-//  padding: 20px;
+  padding: 20px;
   width: 140px;
   font-weight:400;
   transition: all 0.5s;
   cursor: pointer;
-//  margin: 5px;
+  margin: 5px;
 }
 
 
@@ -102,12 +103,12 @@ button[data-sharer] {
   position: absolute;
   opacity: 0;
   top: 0;
-  right: -30px;
+  right: -20px;
   transition: 0.5s;
 }
 
 .button-navbar:hover span {
-  padding-right: 35px;
+  padding-right: 25px;
 
 }
 
