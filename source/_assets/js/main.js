@@ -73,7 +73,7 @@ function revealText1() {
 
   if (clickMe) {
       clickMe.addEventListener('click', () => {
-          clickMe.textContent = textToReveal;
+          document.getElementById("Home-1").innerHTML += textToReveal;
       });
   }
 
