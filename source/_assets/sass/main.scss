@@ -60,10 +60,51 @@ button[data-sharer] {
 }
 
 
+.button-navbar {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #A80874; //nu are relevanta
+  opacity: 0;
+  border: none;
+  color: #000;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 60px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button-navbar span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button-navbar span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button-navbar:hover span {
+  padding-right: 25px;
+}
+
+.button-navbar:hover span:after {
+  right: 0;
+}
+
+
 /*for NAV BAR */
 
 a:link {
-  color: #B7FDFE;
+  color: #A80874;
   background-color: transparent;
   text-decoration: none;
 }

@@ -42,20 +42,18 @@
 
 
 
-  <div class="container-fluid" style="text-align: left">
+  <div class="container-fluid" style="text-align: center">
     <nav class="navbar navbar-inverse">
       <div class="container-fluid">
         <ul class="nav navbar-nav">
-          <li><a id="len1" class="hoverable" href="/" style="text-align: left"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/c_scale,w_32/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png"></a></li>
-        </ul>
-      </div>
+          <li><a class="hoverable" href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/c_scale,w_32/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png"></a></li>
 
-      <div class="container-fluid" style="text-align: right">
-        <ul class="nav navbar-nav">
-            <li><a id="len2" class="hoverable" href="/articole" >Articole</a></li>
-          <li><a id="len3" class="hoverable" href="/despre-mine" >Cine sunt?</a></li>
-          <li><a id="len4" class="hoverable" href="/consultanta">Consultanță</a></li>
-          <li><a id="len5" class="hoverable" href="/trr">Țrr</a></li>
+          <button id="len1" class="button-navbar hoverable" style="vertical-align:middle" href="/articole"><span>Articole</span></button>
+          <button id="len2" class="button-navbar hoverable" style="vertical-align:middle" href="/despre-mine"><span>Cine sunt eu?</span></button>
+          <button id="len3" class="button-navbar hoverable" style="vertical-align:middle" href="/consultanta"><span>Consultanță</span></button>
+          <button id="len4" class="button-navbar hoverable" style="vertical-align:middle" href="/trr"><span>Țrr</span></button>
+
+
         </ul>
       </div>
     </nav>
