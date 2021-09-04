@@ -65,11 +65,9 @@ var MailChimpCode = '\
 
 document.getElementById('reveal1').addEventListener('click', revealText1);
 
-var check = 0;
-
 function revealText1() {
 
-  if (check == 0) {
+if(revealText1.done) return;
 
   var textToReveal = '<ul>'
   + '<li>este dreptul tău să spui că ești nemulțumit</li>'
@@ -78,8 +76,8 @@ function revealText1() {
   + '</ul>';
 
   document.getElementById("Home-1").innerHTML += textToReveal;
-  check = 1;
-  } 
+
+  }
   //document.getElementById("Home-1").innerHTML += textToReveal;
 }
 
