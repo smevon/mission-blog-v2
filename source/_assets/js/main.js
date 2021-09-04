@@ -90,8 +90,7 @@ if(revealText1.done) return;
 
 
 // for nav-BAR - JQuerry Sergiu draga
-jQuery.noConflict();
-jQuery(document).ready(function(){
+
   $(function(){
     console.log("Am ajuns in functie");
     var str = '#len'; //increment by 1 up to 1-nelemnts
@@ -107,4 +106,3 @@ jQuery(document).ready(function(){
       }, 500)
     });
   });
-});
