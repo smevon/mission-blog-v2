@@ -152,10 +152,7 @@ button[data-sharer] {
 }
 
 body {
-  background-color: rgba(0,0,0,1);
   font-weight:600;
-  text-align:center !important;
-  color: white;
 }
 
 nav {
@@ -168,8 +165,4 @@ nav {
       transition: .5s color ease-in-out;
     }
   }
-}
-
-.page-title {
-  opacity: .75 !important;
 }
