@@ -62,16 +62,29 @@ button[data-sharer] {
 
 /*for NAV BAR */
 
-a:link { text-decoration: none; }
+a:link {
+  color: #B7FDFE;
+  background-color: transparent;
+  text-decoration: none;
+}
 
+a:visited {
+  color: #343A1A;
+  background-color: transparent;
+  text-decoration: none;
+}
 
-a:visited { text-decoration: none; }
+a:hover {
+  color: #343A1A;
+  background-color: transparent;
+  text-decoration: none;
+}
 
-
-a:hover { text-decoration: none; }
-
-
-a:active { text-decoration: none; }
+a:active {
+  color: #343A1A;
+  background-color: transparent;
+  text-decoration: none;
+}
 
 .hoverable{
   display:inline-block;
