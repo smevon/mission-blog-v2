@@ -83,6 +83,12 @@ button[data-sharer] {
   transition: 0.5s;
 }
 
+
+.button-navbar:hover {
+  background-color: #FFF;
+}
+
+
 .button-navbar span:after {
   content: '\00bb';
   position: absolute;
@@ -94,13 +100,13 @@ button[data-sharer] {
 
 .button-navbar:hover span {
   padding-right: 25px;
-  background-color: #FFF;
+
 }
 
 .button-navbar:hover span:after {
   opacity: 1;
   right: 0;
-  background-color: #FFF;
+
 }
 
 
