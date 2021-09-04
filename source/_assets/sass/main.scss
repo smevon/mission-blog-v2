@@ -299,3 +299,13 @@ nav {
 .button-reveal:hover {
   background-color: #5EF38C;
 }
+
+/*
+#Home-1 {
+  animation: reveal-text 2s;
+}*/
+
+@keyframes reveal-text {
+  from {margin-top: 0px;}
+  to {margin-top: -80px;}
+}
