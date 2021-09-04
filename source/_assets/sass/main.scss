@@ -84,8 +84,8 @@ button[data-sharer] {
   height:10px;
   width:90%;
   opacity:0;
-  background: -webkit-radial-gradient(center, ellipse, rgba(255, 255, 255, 0.35) 0%, rgba(255, 255, 255, 0) 80%);
-  background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0.35) 0%, rgba(255, 255, 255, 0) 80%);
+  background: -webkit-radial-gradient(center, ellipse, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0) 80%);
+  background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0) 80%);
   /* W3C */
   transition-duration: 0.3s;
   transition-property: transform, opacity;
@@ -158,6 +158,7 @@ body {
 nav {
   background: none !important;
   text-transform:uppercase;
+  text-align: center;
   li {
     margin-left: 3em;
     margin-right: 3em;

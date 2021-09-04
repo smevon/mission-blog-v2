@@ -13,24 +13,6 @@
     @include('_partials.head.favicon')
     @include('_partials.head.meta')
     @include('_partials.cms.identity_widget')
-<script>
-
-$(function(){
-  var str = '#len'; //increment by 1 up to 1-nelemnts
-  $(document).ready(function(){
-    var i, stop;
-    i = 1;
-    stop = 4; //num elements
-    setInterval(function(){
-      if (i > stop){
-        return;
-      }
-      $('#len'+(i++)).toggleClass('bounce');
-    }, 500)
-  });
-});
-
-</script>
 
 
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
@@ -55,22 +37,6 @@ $(function(){
 
             </nav>
 -->
-                <div class="container-fluid">
-                  <nav class="navbar navbar-inverse">
-                    <div class="container-fluid">
-                      <ul class="nav navbar-nav">
-                        <li><a id="len1" class="hoverable" href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/c_scale,w_32/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png"></a></li>
-                        <li><a id="len2" href="/articole">Articole</a></li>
-                        <li><a id="len3" href="/despre-mine">Cine sunt?</a></li>
-                        <li><a id="len4" href="/consultanta">Consultanță</a></li>
-                      </ul>
-                    </div>
-                  </nav>
-                </div>
-
-
-
-
 
         </header>
 
