@@ -78,7 +78,8 @@ if(revealText1.done) return;
   document.getElementById("Home-1").innerHTML += textToReveal;
 
   document.getElementById("reveal1").style.visibility = "hidden";
-  document.getElementById("Home-1").style.animation = "reveal-text 1s 0.3s 1";
+  document.getElementById("Home-1").style.animation = "reveal-text 1s linear 0.3s 1 normal forwards";
+
 
 
 
