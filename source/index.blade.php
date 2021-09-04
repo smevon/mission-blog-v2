@@ -6,7 +6,7 @@
 
 <p>Atunci când comanda la restaurant durează dublu decât timpul estimat:</p>
 
-<button id="reveal1" class="button-reveal" onclick="revealText1()" style="vertical-align:middle"><span>Citește</span></button>
+<button id="reveal1" class="button-reveal" style="vertical-align:middle"><span>Citește</span></button>
 <div id="Home-1">
 </div>
 
