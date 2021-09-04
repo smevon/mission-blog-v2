@@ -62,6 +62,16 @@ button[data-sharer] {
 
 /*for NAV BAR */
 
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
 
 .hoverable{
   display:inline-block;
@@ -72,6 +82,7 @@ button[data-sharer] {
   tranform: translateZ(0);
   transition-duration: .3s;
   transition-property:transform;
+  text-decoration: none;
 }
 
 .hoverable:before{
