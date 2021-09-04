@@ -48,7 +48,7 @@
 <div id="Mailchimp-Select">
 </div>
 
-<!-- Begin Mailchimp Signup Form -->
+<!-- Begin Mailchimp Signup Form
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
   <style type="text/css">
   	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -75,7 +75,7 @@
   	<div id="mce-responses" class="clear">
   		<div class="response" id="mce-error-response" style="display:none"></div>
   		<div class="response" id="mce-success-response" style="display:none"></div>
-  	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+  	</div>
       <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8afc636eecb08cf316417c49f_fd48a45d07" tabindex="-1" value=""></div>
       <div class="clear"><input style="background-color:#A80874" type="submit" value="Mă abonez" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
       </div>
