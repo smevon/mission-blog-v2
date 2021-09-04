@@ -42,7 +42,7 @@
 
 
 
-  <div class="container-fluid" style="text-align: center;">
+  <div class="container-fluid">
     <nav class="navbar navbar-inverse">
       <div class="container-fluid">
         <ul class="nav navbar-nav">
@@ -50,6 +50,7 @@
           <li><a id="len2" class="hoverable" href="/articole" style="text-align: right;">Articole</a></li>
           <li><a id="len3" class="hoverable" href="/despre-mine" style="text-align: right;">Cine sunt?</a></li>
           <li><a id="len4" class="hoverable" href="/consultanta" style="text-align: right;">Consultanță</a></li>
+          <li><a id="len5" class="hoverable" href="/trr" style="text-align: right;">Țrr</a></li>
         </ul>
       </div>
     </nav>
