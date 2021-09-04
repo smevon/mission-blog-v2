@@ -263,8 +263,8 @@ nav {
   text-align: center;
   font-size: 16px;
   padding: 20px;
-  width: 100px;
-  height: 60px;
+  width: 140px;
+  transform: scale(0.55);
   transition: all 0.5s;
   cursor: pointer;
   margin: 0px;
@@ -296,5 +296,5 @@ nav {
 }
 
 .button-reveal:hover {
-  background-color: #343A1A;
+  background-color: #5EF38C;
 }
