@@ -69,7 +69,15 @@ function revealText1() {
   <li>este în spre binele tău să faci ceva, orice. (fără agresivitate, te rog)</li>\
   </ul>';
 
-  document.getElementById("Home-1").innerHTML += textToReveal;
+  const clickMe = document.querySelector('.button-reveal');
+
+  if (clickMe) {
+      clickMe.addEventListener('click', () => {
+          clickMe.textContent = textToReveal;
+      });
+  }
+
+  //document.getElementById("Home-1").innerHTML += textToReveal;
 }
 
 // for nav-BAR
