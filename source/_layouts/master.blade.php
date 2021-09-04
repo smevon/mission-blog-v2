@@ -40,7 +40,7 @@ $(function(){
     <section>
         <header>
 
-
+<!--
             <nav>
                   <div style="text-align: center;">
 
@@ -52,7 +52,25 @@ $(function(){
                     <li><a href="/consultanta">Consultanță</a></li>
                     <li><a href="/trr">Țrr</a></li>
                 </ul>
+
             </nav>
+-->
+                <div class="container-fluid">
+                  <nav class="navbar navbar-inverse">
+                    <div class="container-fluid">
+                      <ul class="nav navbar-nav">
+                        <li><a id="len1" class="hoverable" href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/c_scale,w_32/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png"></a></li>
+                        <li><a id="len2" href="/articole">Articole</a></li>
+                        <li><a id="len3" href="/despre-mine">Cine sunt?</a></li>
+                        <li><a id="len4" href="/consultanta">Consultanță</a></li>
+                      </ul>
+                    </div>
+                  </nav>
+                </div>
+
+
+
+
 
         </header>
 
