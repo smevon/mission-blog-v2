@@ -306,4 +306,29 @@ nav {
 @keyframes reveal-text {
   from {margin-top: 0px;}
   to {margin-top: -80px;}
+
+
+  16.65% {
+      margin-top: 5px;
+  }
+
+  33.3% {
+      margin-top: -25px;
+  }
+
+  49.95% {
+      margin-top: -70px;
+  }
+
+  66.6% {
+      margin-top: -90px;
+  }
+
+  83.25% {
+      margin-top: -75px;
+  }
+
+  100% {
+      margin-top: 80px;
+  }
 }
