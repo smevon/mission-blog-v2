@@ -50,6 +50,14 @@
 
 <p> Ar fi o idee rea să fie așa?</p>
 
+
+
+
+
+
+
+
+
 <button class="button-js" onclick="addCode()" style="vertical-align:middle"><span>Nu</span></button>
 <div id="Mailchimp-Select">
 </div>

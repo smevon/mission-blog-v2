@@ -5,10 +5,12 @@
 @import "~notyf/notyf.min";
 
 * {
- font-size: 100%;
  font-family: "Trebuchet MS";
 }
 
+.header {
+  font-size: 3vw;
+}
 
 section h1:first-child {
     margin-top: 0px;
@@ -32,7 +34,6 @@ button[data-sharer] {
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
   padding: 20px;
   width: 200px;
   transition: all 0.5s;

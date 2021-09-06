@@ -92,7 +92,6 @@ if(revealText1.done) return;
 // for nav-BAR - JQuerry Sergiu draga
 
   $(function(){
-    console.log("Am ajuns in functie");
     var str = '#len'; //increment by 1 up to 1-nelemnts
     $(document).ready(function(){
       var i, stop;
