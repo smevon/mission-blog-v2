@@ -17,7 +17,7 @@
   <li>este dreptul tău să spui că ești nemulțumit</li>
   <li>este dreptul tău să ceri o reducere</li>
   <li>este în spre binele tău să faci ceva, orice. (fără agresivitate, te rog)</li>
-</ul>;
+</ul>
 
 
 <p>Atunci când ești servit impecabil</p>
@@ -57,6 +57,12 @@
 <strong>„În următorii 40 de ani, vreau să contribui la construirea renumelui țării noastre. Vreau ca România să fie cunoscută ca fiind cea mai serviabilă țară din lume. Totul pornește de la compania ta.”</strong>
 
 <p>Ar fi o idee rea să trăiești într-o asemenea țară?</p>
+
+
+<style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+</style>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
+</script>
 
 <button id="button-nu" class="button-js" onclick="revealTextSubscribe()" style="vertical-align:middle"><span>Nu</span></button>
 <div id="Mailchimp-Select">

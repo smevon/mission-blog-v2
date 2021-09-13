@@ -47,7 +47,7 @@
     <nav class="navbar navbar-inverse">
       <div class="container-fluid">
         <ul class="nav navbar-nav">
-          <li class="items"><a href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/c_scale,w_32/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png"></a></li>
+          <li><a href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/c_scale,w_32/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png"></a></li>
 
           <button id="len1" class="button-navbar" style="vertical-align:middle" href="/articole"><span>Articole</span></button>
           <button id="len2" class="button-navbar" style="vertical-align:middle" href="/despre-mine"><span>Cine sunt eu?</span></button>

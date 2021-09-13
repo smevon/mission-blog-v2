@@ -93,8 +93,6 @@ function revealTextSubscribe() {
 if(revealTextSubscribe.done) return;
 
   var subscriptionReveal = '<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">'
-  + '<style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }'
-  +'</style>'
   +'<div id="mc_embed_signup">'
   +'<form action="https://sergiu-adrian.us6.list-manage.com/subscribe/post?u=8afc636eecb08cf316417c49f&amp;id=fd48a45d07" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>'
   +'    <div id="mc_embed_signup_scroll">'
