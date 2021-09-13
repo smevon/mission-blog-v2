@@ -87,7 +87,7 @@ if(revealText1.done) return;
   //document.getElementById("Home-1").innerHTML += textToReveal;
 }
 
-
+/*
 function revealTextSubscribe() {
 
 if(revealTextSubscribe.done) return;
@@ -126,7 +126,7 @@ if(revealTextSubscribe.done) return;
   //document.getElementById("Home-1").style.margin = "-80px 0px 0px 0px";
   //document.getElementById("Home-1").innerHTML += textToReveal;
 }
-
+*/
 
 
 // for nav-BAR - JQuerry Sergiu draga
