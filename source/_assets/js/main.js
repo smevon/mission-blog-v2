@@ -75,10 +75,10 @@ if(revealText1.done) return;
   + '<li>este în spre binele tău să faci ceva, orice. (fără agresivitate, te rog)</li>'
   + '</ul>';
 
-  document.getElementById("Home-1").innerHTML += textToReveal;
+  //document.getElementById("Home-1").innerHTML += textToReveal;
 
-  document.getElementById("reveal1").style.visibility = "hidden";
-  document.getElementById("Home-1").style.animation = "reveal-text 1s linear 0.3s 1 normal forwards";
+  //document.getElementById("reveal1").style.visibility = "hidden";
+  //document.getElementById("Home-1").style.animation = "reveal-text 1s linear 0.3s 1 normal forwards";
 
 
 
