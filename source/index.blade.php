@@ -79,10 +79,11 @@
   <div class="indicates-required"><span class="asterisk">*</span> Musai</div>
 
   <div class="mc-field-group">
-  	<label for="mce-FNAME">Prenumele tău preferat </label>
+  	<label for="mce-FNAME">Prenumele tău preferat <span class="asterisk">*</span>
+    </label>
   	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
   </div>
-  
+
   <div class="mc-field-group">
   	<label for="mce-EMAIL">Adresă de email pe care o verifici zilnic <span class="asterisk">*</span>
   </label>
