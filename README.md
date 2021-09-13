@@ -11,6 +11,7 @@ The HTML, CSS and JavaScript in this template are extremely minimal, which makes
 
 **Demo:** https://artisanstatic.netlify.app
 
+
 ___
 ## General details and features
 
