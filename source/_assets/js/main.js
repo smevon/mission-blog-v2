@@ -63,7 +63,7 @@ var MailChimpCode = '\
 
 
 
-document.getElementById('reveal1').addEventListener('click', revealText1);
+//document.getElementById('reveal1').addEventListener('click', revealText1);
 
 function revealText1() {
 
@@ -75,10 +75,10 @@ if(revealText1.done) return;
   + '<li>este în spre binele tău să faci ceva, orice. (fără agresivitate, te rog)</li>'
   + '</ul>';
 
-  document.getElementById("Home-1").innerHTML += textToReveal;
+  //document.getElementById("Home-1").innerHTML += textToReveal;
 
-  document.getElementById("reveal1").style.visibility = "hidden";
-  document.getElementById("Home-1").style.animation = "reveal-text 1s linear 0.3s 1 normal forwards";
+  //document.getElementById("reveal1").style.visibility = "hidden";
+  //document.getElementById("Home-1").style.animation = "reveal-text 1s linear 0.3s 1 normal forwards";
 
 
 
@@ -87,6 +87,46 @@ if(revealText1.done) return;
   //document.getElementById("Home-1").innerHTML += textToReveal;
 }
 
+/*
+function revealTextSubscribe() {
+
+if(revealTextSubscribe.done) return;
+
+  var subscriptionReveal = '<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">'
+  +'<div id="mc_embed_signup">'
+  +'<form action="https://sergiu-adrian.us6.list-manage.com/subscribe/post?u=8afc636eecb08cf316417c49f&amp;id=fd48a45d07" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>'
+  +'    <div id="mc_embed_signup_scroll">'
+  +'  <h2>Abonează-te</h2>'
+  +'<div class="indicates-required"><span class="asterisk">*</span> Musai</div>'
+  +'<div class="mc-field-group">'
+  +'  <label for="mce-EMAIL">Adresă de email <span class="asterisk">*</span>'
+  +'</label>'
+  +'  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">'
+  +'</div>'
+  +'<div class="mc-field-group">'
+  +'  <label for="mce-FNAME">Prenumele tău preferat </label>'
+  +'  <input type="text" value="" name="FNAME" class="" id="mce-FNAME">'
+  +'</div>'
+  +'  <div id="mce-responses" class="clear">'
+  +'    <div class="response" id="mce-error-response" style="display:none"></div>'
+  +'    <div class="response" id="mce-success-response" style="display:none"></div>'
+  +'  </div>'
+  +'    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8afc636eecb08cf316417c49f_fd48a45d07" tabindex="-1" value=""></div>'
+  +'    <div class="clear"><input style="background-color:#A80874" type="submit" value="Mă abonez" name="subscribe" id="mc-embedded-subscribe" class="button"></div>'
+  +'    </div>'
+  +'</form>'
+  +'</div>';
+
+
+  document.getElementById("Mailchimp-Select").innerHTML += subscriptionReveal;
+
+  document.getElementById("button-nu").style.visibility = "hidden";
+  //document.getElementById("Home-1").style.animation = "reveal-text 1s linear 0.3s 1 normal forwards";
+
+  //document.getElementById("Home-1").style.margin = "-80px 0px 0px 0px";
+  //document.getElementById("Home-1").innerHTML += textToReveal;
+}
+*/
 
 
 // for nav-BAR - JQuerry Sergiu draga
