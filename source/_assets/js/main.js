@@ -63,7 +63,7 @@ var MailChimpCode = '\
 
 
 
-document.getElementById('reveal1').addEventListener('click', revealText1);
+//document.getElementById('reveal1').addEventListener('click', revealText1);
 
 function revealText1() {
 
