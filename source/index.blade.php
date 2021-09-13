@@ -58,6 +58,7 @@
 
 <p>Ar fi o idee rea să trăiești într-o asemenea țară?</p>
 
+<!--
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 </style>
@@ -67,8 +68,9 @@
 <button id="button-nu" class="button-js" onclick="revealTextSubscribe()" style="vertical-align:middle"><span>Nu</span></button>
 <div id="Mailchimp-Select">
 </div>
+-->
 
-<!-- Begin Mailchimp Signup Form
+
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
   <style type="text/css">
   	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -102,9 +104,9 @@
   </form>
   </div>
   <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-  <!--End mc_embed_signup-->
 
-  <strong>Citește articolele de pe blog.</strong>
+
+  <strong>Citește și alte articolele de pe blog.</strong>
 
   <ul>
       @forelse ($posts->sortBy('date') as $post)
