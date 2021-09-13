@@ -64,7 +64,9 @@ button[data-sharer] {
 }
 
 
-
+.items {
+  position: relative;
+}
 
 .button-navbar {
   display: inline-block;
@@ -85,6 +87,7 @@ button[data-sharer] {
   margin: 5px;
 
   position: relative;
+
 //responsivness
 //  border-radius:15%;
 //  word-wrap: break-word;
