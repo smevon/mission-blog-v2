@@ -96,20 +96,20 @@ if(revealTextSubscribe.done) return;
   + '<style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }'
   +'</style>'
   +'<div id="mc_embed_signup">'
-  +'<form action="https://sergiu-adrian.us6.list-manage.com/subscribe/post?u=8afc636eecb08cf316417c49f&amp;id=fd48a45d07" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  +'<form action="https://sergiu-adrian.us6.list-manage.com/subscribe/post?u=8afc636eecb08cf316417c49f&amp;id=fd48a45d07" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>'
   +'    <div id="mc_embed_signup_scroll">'
   +'  <h2>Abonează-te</h2>'
-  +'<div class="indicates-required"><span class="asterisk">*</span> Musai</div>
+  +'<div class="indicates-required"><span class="asterisk">*</span> Musai</div>'
   +'<div class="mc-field-group">'
-  +'  <label for="mce-EMAIL">Adresă de email <span class="asterisk">*</span>
+  +'  <label for="mce-EMAIL">Adresă de email <span class="asterisk">*</span>'
   +'</label>'
-  +'  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+  +'  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">'
   +'</div>'
-  +'<div class="mc-field-group">
+  +'<div class="mc-field-group">'
   +'  <label for="mce-FNAME">Prenumele tău preferat </label>'
   +'  <input type="text" value="" name="FNAME" class="" id="mce-FNAME">'
   +'</div>'
-  +'  <div id="mce-responses" class="clear">
+  +'  <div id="mce-responses" class="clear">'
   +'    <div class="response" id="mce-error-response" style="display:none"></div>'
   +'    <div class="response" id="mce-success-response" style="display:none"></div>'
   +'  </div>'
