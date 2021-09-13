@@ -115,8 +115,8 @@ if(revealTextSubscribe.done) return;
   +'    <div class="clear"><input style="background-color:#A80874" type="submit" value="Mă abonez" name="subscribe" id="mc-embedded-subscribe" class="button"></div>'
   +'    </div>'
   +'</form>'
-  +'</div>'
-  +'<script type=\'text/javascript\' src=\'//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js\'></script><script type=\'text/javascript\'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]=\'EMAIL\';ftypes[0]=\'email\';fnames[1]=\'FNAME\';ftypes[1]=\'text\';}(jQuery));var $mcj = jQuery.noConflict(true);</script>';
+  +'</div>';
+
 
   document.getElementById("Mailchimp-Select").innerHTML += subscriptionReveal;
 

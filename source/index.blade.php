@@ -4,24 +4,19 @@
 <strong>„Și dacă-mi scuipă în supă? Mai bine tac... lasă.”</strong>
 <p align="center"> - spuse el către prieteni.</p>
 
-<p>Atunci când comanda la restaurant durează dublu decât timpul estimat:</p>
-
-
 
 <!-- <button id="reveal1" class="button-reveal" style="vertical-align:middle"><span>Citește</span></button>
 <div id="Home-1">
 </div>
 
 -->
-<ul>
+<ul>Atunci când comanda la restaurant durează dublu decât timpul estimat
   <li>este dreptul tău să spui că ești nemulțumit</li>
   <li>este dreptul tău să ceri o reducere</li>
   <li>este în spre binele tău să faci ceva, orice. (fără agresivitate, te rog)</li>
 </ul>
 
-
-<p>Atunci când ești servit impecabil</p>
-<ul>
+<ul>Atunci când ești servit impecabil
   <li>apreciază atitudinea</li>
   <li>oferă complimente</li>
   <li>laudă comportamentele</li>
@@ -37,13 +32,13 @@
 
 <p>Atunci când ești „înflăcărat” față de client și îți pasă cu adevărat de el, cresc șansele să ai tot mai mulți clienți fideli, recomandatori și în cele din urmă ambasadori ai brandului tău.</p>
 
-<ul>Abonează-te, vino în comunitatea celor care
+<ul><strong>Abonează-te, vino în comunitatea celor care</strong>
 <li>s-au săturat să arunce bani pe fereastră pentru a atrage clienți noi</li>
 <li>vor să ofere experiențe memorabile clienților</li>
 <li>au în plan să-și crească LTV / client </li>
 </ul>
 
-<ul>Te rog să nu te abonezi, dacă
+<ul><strong>Te rog să nu te abonezi, dacă</strong>
 <li>pentru tine este mai important să atragi clienți noi decât să-i menții pe cei existenți</li>
 <li>refuzi vehement să-ți pese cum se simte când clientul interacționează cu afacerea ta</li>
 <li>atunci când un client îți spune o problemă, o ignori complet</li>
@@ -52,11 +47,11 @@
 
 <p>Peste 1150 de ore de cursuri și traininguri, aproape 500 de ore petrecute la telefon cu clienții și peste 250 de ore de consultanță oferite clienților mă susțin în a te învăța și pe tine cele descoperite.</p>
 
-<p>Acum, tu alegi în care parte vrei să fii!</p>
+<p>Acum, <strong>tu alegi</strong> în care parte vrei să fii!</p>
 
 <strong>„În următorii 40 de ani, vreau să contribui la construirea renumelui țării noastre. Vreau ca România să fie cunoscută ca fiind cea mai serviabilă țară din lume. Totul pornește de la compania ta.”</strong>
 
-<p>Ar fi o idee rea să trăiești într-o asemenea țară?</p>
+<p>Ar fi o idee rea să trăiești într-o <strong>asemenea țară</strong>?</p>
 
 <!--
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -80,18 +75,18 @@
   <div id="mc_embed_signup">
   <form action="https://sergiu-adrian.us6.list-manage.com/subscribe/post?u=8afc636eecb08cf316417c49f&amp;id=fd48a45d07" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <div id="mc_embed_signup_scroll">
-  	<h2>Abonează-te</h2>
+  	<h2>Nu? Atunci te invit să te abonezi mai jos</h2>
   <div class="indicates-required"><span class="asterisk">*</span> Musai</div>
-
-  <div class="mc-field-group">
-  	<label for="mce-EMAIL">Adresă de email <span class="asterisk">*</span>
-  </label>
-  	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-  </div>
 
   <div class="mc-field-group">
   	<label for="mce-FNAME">Prenumele tău preferat </label>
   	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+  </div>
+  
+  <div class="mc-field-group">
+  	<label for="mce-EMAIL">Adresă de email pe care o verifici zilnic <span class="asterisk">*</span>
+  </label>
+  	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
   </div>
 
   	<div id="mce-responses" class="clear">
