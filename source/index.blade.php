@@ -1,8 +1,8 @@
 @extends('_layouts.master')
 
 @section('content')
-<strong>„Și dacă-mi scuipă în supă? Mai bine tac... lasă.”</strong>
-<p align="center"> - spuse el către prieteni.</p>
+<strong>„Digitalizezi, digitalizezi, dar măcar nu te du cu turma...”</strong>
+<p align="center"> - stai nițel, și gândește-te bine.</p>
 
 
 <!-- <button id="reveal1" class="button-reveal" style="vertical-align:middle"><span>Citește</span></button>
@@ -10,48 +10,34 @@
 </div>
 
 -->
-<ul>Atunci când comanda la restaurant durează dublu decât timpul estimat
-  <li>este dreptul tău să spui că ești nemulțumit</li>
-  <li>este dreptul tău să ceri o reducere</li>
-  <li>este în spre binele tău să faci ceva, orice. (fără agresivitate, te rog)</li>
-</ul>
 
-<ul>Atunci când ești servit impecabil
-  <li>apreciază atitudinea</li>
-  <li>oferă complimente</li>
-  <li>laudă comportamentele</li>
-</ul>
+<p>Chiar ai nevoie de un mega website de zeci de mii de euro?.</p>
 
-<p>Este o muncă și un efort constant în a oferi un serviciu impecabil. Apreciază-l.</p>
+<p>Ce dezavantaje găsești dacă faci acest pas?</p>
 
-<p>Este un dezinteres total când ți se aduce comanda greșit. Verbalizează-ți nemulțumirea într-un mod cât mai civilizat. Pe scurt, așa cum ți-ar plăcea ție să-ți vorbească cineva când este nemulțumit, așa să faci și tu.</p>
+<p>Ești sigur că vrei să plătești o echipă de designeri să-ți faci rebranding?</p>
 
-<p>Dacă ești antreprenor, manager sau agent de relații cu clienții, scriu pentru tine.</p>
+<p>Ce avantaje găsești dacă rămâi cu brandul actual?</p>
 
-<p>Atunci când ești indiferent față de client, riști să ai clienți înflăcărați care îți promovează în sens negativ afacerea. Da... munca ta, timpul tău.</p>
+<p>Peste tot se vorbește despre digitalizare. Și este bine, pentru că doar așa putem scăpa de birocrație. Se lucrează în direcția asta... ceea ce e foarte bine.</p>
 
-<p>Atunci când ești „înflăcărat” față de client și îți pasă cu adevărat de el, cresc șansele să ai tot mai mulți clienți fideli, recomandatori și în cele din urmă ambasadori ai brandului tău.</p>
+<p>Însă ce vreau să spun, este că nu vreau să te opresc din a digitaliza, ci să mă asigur că digitalizezi în direcția corectă.</p>
 
-<ul><strong>Abonează-te, vino în comunitatea celor care</strong>
-<li>s-au săturat să arunce bani pe fereastră pentru a atrage clienți noi</li>
-<li>vor să ofere experiențe memorabile clienților</li>
-<li>au în plan să-și crească LTV / client </li>
-</ul>
+<p>Îmi pasă de experiența clientului tău, și dacă am avea o întâlnire de cunoaștere/ calificare, am vorbi doar despre clientul tău, despre datele generate de baza ta clienți, sau de lista ta.</p>
 
-<ul><strong>Te rog să nu te abonezi, dacă</strong>
-<li>pentru tine este mai important să atragi clienți noi decât să-i menții pe cei existenți</li>
-<li>refuzi vehement să-ți pese cum se simte când clientul interacționează cu afacerea ta</li>
-<li>atunci când un client îți spune o problemă, o ignori complet</li>
-</ul>
-<p>Am prezentat pe scurt cele două categorii, dar înainte să te decizi în ce tabără vrei să fii, mai am ceva de zis.</p>
+<p>Hai să nu punem ecrane LCD-uri în Taxiuri.</p>
 
-<p>Peste 1150 de ore de cursuri și traininguri, aproape 500 de ore petrecute la telefon cu clienții și peste 250 de ore de consultanță oferite clienților mă susțin în a te învăța și pe tine cele descoperite.</p>
+<p>Hai să nu facem email marketing cu fiecare om care trece pe lângă o vitrină, în centrul orașului.</p>
 
-<p>Acum, <strong>tu alegi</strong> în care parte vrei să fii!</p>
+<p>... destul cu negativele.</p>
 
-<strong>„În următorii 40 de ani, vreau să contribui la construirea renumelui țării noastre. Vreau ca România să fie cunoscută ca fiind cea mai serviabilă țară din lume. Totul pornește de la compania ta.”</strong>
+<p>Hai să ne gândim puțin la experiența cumpărătorului.</p>
 
-<p>Ar fi o idee rea să trăiești într-o <strong>asemenea țară</strong>?</p>
+<p>Hai să vedem cum poate el să recomande mai ușpr afacerea ta, dacă digitalizezi procesul de recomandare.</p>
+
+<p>Hai să vedem dacă merită să ai contracte online.</p>
+
+
 
 <!--
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

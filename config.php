@@ -5,7 +5,7 @@ return [
     'baseUrl' => 'https://sergiu-adrian.ro/',
     'site' => [
         'title' => 'Coregraf de cuvinte | Sergiu Adrian',
-        'description' => 'Dezvoltator de experiențe pentru clienți.',
+        'description' => 'Contează și cum digitalizezi.',
         'image' => 'assets/images/logo.png',
         'logoURL' => 'https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png',
 
