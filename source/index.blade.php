@@ -41,7 +41,11 @@
 
 <h2> Completează acest formular pentru a-ți verificat eligibilitatea, dacă e potrivit să ai o discuție cu mine </h2>
 
+<!-- 
 
+Formular embedded din Typeform
+Thank you page → In momentul de fata, as avea o prima disponibilitate incepand cu 11 Ianuarie, pentru 1 singur client.
+ - Vei fi oricum anuntat daca te incadrezi pentru a avea o prima discutie cu mine
 
 
 <!--
