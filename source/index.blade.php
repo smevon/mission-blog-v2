@@ -11,7 +11,7 @@
 
 -->
 
-<p>Chiar ai nevoie de un mega website de zeci de mii de euro?.</p>
+<p>Chiar ai nevoie de un mega website de zeci de mii de euro?</p>
 
 <p>Ce dezavantaje găsești dacă faci acest pas?</p>
 
@@ -33,11 +33,16 @@
 
 <p>Hai să ne gândim puțin la experiența cumpărătorului.</p>
 
-<p>Hai să vedem cum poate el să recomande mai ușpr afacerea ta, dacă digitalizezi procesul de recomandare.</p>
+<p>Hai să vedem cum poate el să recomande mai ușor afacerea ta, dacă digitalizezi procesul de recomandare.</p>
 
 <p>Hai să vedem dacă merită să ai contracte online.</p>
 
 <p>Sau pe scurt, hai să vedem de ce anume ai nevoie cu adevărat.</p>
+
+<h2> Completează acest formular pentru a-ți verificat eligibilitatea, dacă e potrivit să ai o discuție cu mine </h2>
+
+
+
 
 <!--
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
