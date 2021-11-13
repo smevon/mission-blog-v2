@@ -37,7 +37,7 @@
 
 <p>Hai să vedem dacă merită să ai contracte online.</p>
 
-
+<p>Sau pe scurt, hai să vedem de ce anume ai nevoie cu adevărat.</p>
 
 <!--
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -61,7 +61,8 @@
   <div id="mc_embed_signup">
   <form action="https://sergiu-adrian.us6.list-manage.com/subscribe/post?u=8afc636eecb08cf316417c49f&amp;id=fd48a45d07" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <div id="mc_embed_signup_scroll">
-  	<h2>Nu? Atunci te invit să te abonezi mai jos</h2>
+  	<h2>Încă indecis? Descarcă acest document, să-ți dai seama care este scorul pentru reticența la schimbare în compania ta.</h2>
+    <p>Spune-mi unde să-ți trimit PDF-ul.</p>
   <div class="indicates-required"><span class="asterisk">*</span> Musai</div>
 
   <div class="mc-field-group">
@@ -81,7 +82,7 @@
   		<div class="response" id="mce-success-response" style="display:none"></div>
   	</div>
       <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8afc636eecb08cf316417c49f_fd48a45d07" tabindex="-1" value=""></div>
-      <div class="clear"><input style="background-color:#A80874" type="submit" value="Mă abonez" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      <div class="clear"><input style="background-color:#A80874" type="submit" value="Obține document" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
       </div>
   </form>
   </div>
