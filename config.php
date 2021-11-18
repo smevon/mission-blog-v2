@@ -5,9 +5,9 @@ return [
     'baseUrl' => 'https://sergiu-adrian.ro/',
     'site' => [
         'title' => 'Coregraf de cuvinte | Sergiu Adrian',
-        'description' => 'Contează și cum digitalizezi.',
+        'description' => 'Scriu cu picioarele',
         'image' => 'assets/images/logo.png',
-        'logoURL' => 'https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png',
+        'logoURL' => 'https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1637266854/Logos/Logo_wnihcg.png',
 
     ],
     'owner' => [
