@@ -68,7 +68,7 @@
   		<div class="response" id="mce-success-response" style="display:none"></div>
   	</div>
       <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8afc636eecb08cf316417c49f_fd48a45d07" tabindex="-1" value=""></div>
-      <div class="clear"><input style="background-color:#A80874" type="submit" value="Obține document" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      <div class="clear"><input style="background-color:#A80874" type="submit" value="Spun da" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
       </div>
   </form>
   </div>
