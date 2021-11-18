@@ -49,10 +49,8 @@
         <ul class="nav navbar-nav">
           <li class="items"><a href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/c_scale,w_32/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png"></a></li>
 
-          <button id="len1" class="button-navbar items" style="vertical-align:middle" href="/articole"><span>Articole</span></button>
-          <button id="len2" class="button-navbar items" style="vertical-align:middle" href="/despre-mine"><span>Cine sunt eu?</span></button>
-          <button id="len3" class="button-navbar items" style="vertical-align:middle" href="/consultanta"><span>Consultanță</span></button>
-          <button id="len4" class="button-navbar items" style="vertical-align:middle" href="/trr"><span>Țrr</span></button>
+          <button id="len1" class="button-navbar items" style="vertical-align:right" href="/storytelling"><span>Storytelling</span></button>
+          <button id="len2" class="button-navbar items" style="vertical-align:right" href="/copywriting"><span>Copywriting</span></button>
 
 
         </ul>

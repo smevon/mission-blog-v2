@@ -1,64 +1,35 @@
 @extends('_layouts.master')
 
 @section('content')
-<strong>„Digitalizezi, digitalizezi, dar măcar nu te du cu turma...”</strong>
-<p align="center"> - stai nițel, și gândește-te bine.</p>
-
-
 <!-- <button id="reveal1" class="button-reveal" style="vertical-align:middle"><span>Citește</span></button>
 <div id="Home-1">
 </div>
-
 -->
 
-<p>Chiar ai nevoie de un mega website de zeci de mii de euro?</p>
+<p>Văd în jur doar <strong>mâini ridicate</strong>, și, o ridic și eu.</p>
 
-<p>Ce dezavantaje găsești dacă faci acest pas?</p>
+<p>“În două săptămâni, cei care ați ridicat mâna, veți recita Luceafărul.” spuse doamna profesoară.</p>
 
-<p>Ești sigur că vrei să plătești o echipă de designeri să-ți faci rebranding?</p>
+<p>Și uite așa m-am apucat eu de învățat luceafărul. Jumătate din inițiativă proprie, jumătate din inițiativă colectivă. Aproape jumătate clasa optase pentru a primi doi de 10 în schimbul memorării celebrei poezii a lui Eminescu.</p>
 
-<p>Ce avantaje găsești dacă rămâi cu brandul actual?</p>
+<p>Patru foi A4, proaspăt printate, încă sunt calde, și tocmai ce le-am lipit pe dulap, la nivelul ochilor pentru a fi citite, și recitite, din picioare.</p>
 
-<p>Peste tot se vorbește despre digitalizare. Și este bine, pentru că doar așa putem scăpa de birocrație. Se lucrează în direcția asta... ceea ce e foarte bine.</p>
+<p>Dar ce să vezi? Când i-am spus iubitei mele, de atunci, ea nu-și putea imaginase că aș fi în stare să fac asta. Pe lângă că a fost o provocare să-l învăț, am mai avut și această presiune, dacă o pot numi așa.</p>
 
-<p>Însă ce vreau să spun, este că nu vreau să te opresc din a digitaliza, ci să mă asigur că digitalizezi în direcția corectă.</p>
+<p>“Eu nu cred că poți!” spuse ea, la final de plimbare. </p>
 
-<p>Îmi pasă de experiența clientului tău, și dacă am avea o întâlnire de cunoaștere/ calificare, am vorbi doar despre clientul tău, despre datele generate de baza ta clienți, sau de lista ta.</p>
+<p>Și uite așa, s-a născut în mine o ambiție gigantică. Aveam acum 2 femei în fața cărora trebuia să demonstrez că pot memora o poezie de 98 de strofe. Și nu orice poezie, era Luceafărul, de Mihai Eminescu.</p>
 
-<p>Hai să nu punem ecrane LCD-uri în Taxiuri.</p>
+<p>Chiar dacă pare tembel, dar am spus da acestei provocări, și, la fel te încurajez să faci și tu.</p>
 
-<p>Hai să nu facem email marketing cu fiecare om care trece pe lângă o vitrină, în centrul orașului.</p>
+<p>Spune da propunerilor, spune da provocărilor, spune da vieții.</p>
 
-<p>... destul cu negativele.</p>
+<p>Atunci când spunem da mai des, începe să curgă mai multă viață prin noi. Dar nu mă crede pe cuvânt, încearcă.</p>
 
-<p>Hai să ne gândim puțin la experiența cumpărătorului.</p>
+<p>Acest da pentru Luceafărul, a fost un punct de plecare în călătoria mea de a aduna povești de-a lungul vieții. Atunci mi-am dat seama că această primă povestioară merită spusă nepoților, și am realizat că misiunea mea personală este să am ce povești să le spun nepoților.</p>
 
-<p>Hai să vedem cum poate el să recomande mai ușor afacerea ta, dacă digitalizezi procesul de recomandare.</p>
+<p>Când îmi e frică să fac un lucru, îmi amintesc de nepoți, și atunci brusc am curaj. Vreau ca nepoții mei să fie inspirați și cu piele de găină când îmi aud poveștile.</p>
 
-<p>Hai să vedem dacă merită să ai contracte online.</p>
-
-<p>Sau pe scurt, hai să vedem de ce anume ai nevoie cu adevărat.</p>
-
-<h2>Hai să vedem dacă ne potrivim.</h2>
-
-<!--
-
-Formular embedded din Typeform
-Thank you page → In momentul de fata, as avea o prima disponibilitate incepand cu 11 Ianuarie, pentru 1 singur client.
- - Vei fi oricum anuntat daca te incadrezi pentru a avea o prima discutie cu mine
-
-
-<!--
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-</style>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
-</script>
-
-<button id="button-nu" class="button-js" onclick="revealTextSubscribe()" style="vertical-align:middle"><span>Nu</span></button>
-<div id="Mailchimp-Select">
-</div>
--->
 
 
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -70,8 +41,14 @@ Thank you page → In momentul de fata, as avea o prima disponibilitate incepand
   <div id="mc_embed_signup">
   <form action="https://sergiu-adrian.us6.list-manage.com/subscribe/post?u=8afc636eecb08cf316417c49f&amp;id=fd48a45d07" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <div id="mc_embed_signup_scroll">
-  	<h2>Încă indecis? Descarcă acest document, să-ți dai seama care este scorul pentru reticența la schimbare în compania ta.</h2>
-    <p>Spune-mi unde să-ți trimit PDF-ul.</p>
+
+    <p><strong>Te invit să spui da</strong>, alături de mine, și promit că te vei simți și tu inspirat citind emailurile de la mine.
+
+    <p><strong>Te invit să spui da</strong>, abonării la newsletter, pentru că doar celor care se abonează le spun finalul poveștii cu Luceafărul.
+
+    <p><strong>Te invit să spui da</strong>, o lună întreagă la orice propunere primești. Nu știi niciodată în spatele cărei da se află o viață pe care de mult ți-o dorești.
+
+
   <div class="indicates-required"><span class="asterisk">*</span> Musai</div>
 
   <div class="mc-field-group">
