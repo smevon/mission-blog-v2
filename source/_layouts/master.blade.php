@@ -47,7 +47,7 @@
     <nav class="navbar navbar-inverse">
       <div class="container-fluid">
         <ul class="nav navbar-nav">
-          <li class="items"><a href="/"><img src="{{ $page->site->logoURL }}"></a></li>
+          <li class="items"><a href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/c_scale,w_169/v1637267455/Logos/Logo_scriu_cu_picioarele.png"></a></li>
 
           <button id="len1" class="button-navbar items" style="vertical-align:right" href="/storytelling"><span>Storytelling</span></button>
           <button id="len2" class="button-navbar items" style="vertical-align:right" href="/copywriting"><span>Copywriting</span></button>
