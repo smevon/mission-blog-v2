@@ -7,7 +7,7 @@ return [
         'title' => 'Coregraf de cuvinte | Sergiu Adrian',
         'description' => 'Scriu cu picioarele',
         'image' => 'assets/images/logo.png',
-        'logoURL' => 'https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1637266854/Logos/Logo_wnihcg.png',
+        'logoURL' => 'https://res.cloudinary.com/sergiu-adrian-ro/image/upload/c_scale,w_169/v1637267455/Logos/Logo_scriu_cu_picioarele.png",
 
     ],
     'owner' => [
