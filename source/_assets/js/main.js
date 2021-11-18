@@ -130,7 +130,7 @@ if(revealTextSubscribe.done) return;
 
 
 // for nav-BAR - JQuerry Sergiu draga
-
+/* Momentan fara
   $(function(){
     var str = '#len'; //increment by 1 up to 1-nelemnts
     $(document).ready(function(){
@@ -145,3 +145,4 @@ if(revealTextSubscribe.done) return;
       }, 500)
     });
   });
+*/
