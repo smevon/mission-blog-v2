@@ -11,7 +11,7 @@ return [
 
     ],
     'owner' => [
-        'name' => 'Sergiu Adrian Rus',
+        'name' => 'Sergiu Adrian',
         'facebook' => 'sergiu.adrian.rus',
         'linkedin' => 'russergiuadrian',
     ],

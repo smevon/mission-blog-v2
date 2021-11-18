@@ -47,7 +47,7 @@
     <nav class="navbar navbar-inverse">
       <div class="container-fluid">
         <ul class="nav navbar-nav">
-          <li class="items"><a href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/c_scale,w_32/v1630605466/Logos/Lion%20Logo%20Sergiu%20Adrian.png"></a></li>
+          <li class="items"><a href="/"><img src="https://res.cloudinary.com/sergiu-adrian-ro/image/upload/v1637266854/Logos/Logo_wnihcg.png"></a></li>
 
           <button id="len1" class="button-navbar items" style="vertical-align:right" href="/storytelling"><span>Storytelling</span></button>
           <button id="len2" class="button-navbar items" style="vertical-align:right" href="/copywriting"><span>Copywriting</span></button>
